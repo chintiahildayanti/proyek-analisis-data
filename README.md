@@ -1,6 +1,6 @@
 ### Bike Sharing
 
-# set up environtmen
+# set up environtment
 conda create --name main-ds python=3.9
 
 conda activate main-ds
